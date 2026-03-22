@@ -8,7 +8,7 @@
   "server": {
     "ip": "slobos1isgood.aternos.me",
     "port": 19812,
-    "version": "1.21.1"
+    "version": "1.12.1"
   },
   "position": {
     "enabled": true,
